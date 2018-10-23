@@ -1,0 +1,4 @@
+﻿  SerialPort.cpp
+c:\users\dell\source\repos\serial_dmr_5200\serial_dmr_5200\serialport.cpp(134): warning C4018: '<': signed/unsigned mismatch
+c:\users\dell\source\repos\serial_dmr_5200\serial_dmr_5200\serialport.cpp(140): warning C4018: '<': signed/unsigned mismatch
+  Serial_DMR_5200.vcxproj -> C:\Users\dell\source\repos\Serial_DMR_5200\Debug\Serial_DMR_5200.exe
